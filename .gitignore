@@ -1,0 +1,4 @@
+supervised.dist/*
+*.dll
+*.exe
+*__pycache__
